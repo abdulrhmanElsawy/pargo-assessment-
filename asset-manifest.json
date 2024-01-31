@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/pargo-assessment-/static/css/main.4114741c.css",
+    "main.js": "/pargo-assessment-/static/js/main.d5fbd3dc.js",
+    "static/js/498.6868fffb.chunk.js": "/pargo-assessment-/static/js/498.6868fffb.chunk.js",
+    "static/js/703.efa116c3.chunk.js": "/pargo-assessment-/static/js/703.efa116c3.chunk.js",
+    "static/js/182.648c260a.chunk.js": "/pargo-assessment-/static/js/182.648c260a.chunk.js",
+    "static/js/787.a2eeb70f.chunk.js": "/pargo-assessment-/static/js/787.a2eeb70f.chunk.js",
+    "static/media/dots.png": "/pargo-assessment-/static/media/dots.d8c529e187b245b6de36.png",
+    "static/media/greenenv.webp": "/pargo-assessment-/static/media/greenenv.b94174711dbc42677ce0.webp",
+    "static/media/track.png": "/pargo-assessment-/static/media/track.6d54655d2a74e34bf15f.png",
+    "static/media/prc1_0.webp": "/pargo-assessment-/static/media/prc1_0.2d1d7a0ab07a809a35b7.webp",
+    "static/media/prc4_3.webp": "/pargo-assessment-/static/media/prc4_3.478d370587b31df787bd.webp",
+    "static/media/prc2_1.webp": "/pargo-assessment-/static/media/prc2_1.1ac598705364f67cb608.webp",
+    "static/media/prc3_2.webp": "/pargo-assessment-/static/media/prc3_2.ce6333eadc68ea43c357.webp",
+    "static/media/SAASorPargoIntegration.svg": "/pargo-assessment-/static/media/SAASorPargoIntegration.8f59f63654db054143b98633f716f49d.svg",
+    "static/media/TrackLocation.svg": "/pargo-assessment-/static/media/TrackLocation.38eda82868e4ec20350f6d7d9be44cde.svg",
+    "static/media/logo.svg": "/pargo-assessment-/static/media/logo.15aa345e5b1530e97e01ed15b884f95a.svg",
+    "static/media/TrackParcel.svg": "/pargo-assessment-/static/media/TrackParcel.d212c93bb5b702da61a2cba1513b1922.svg",
+    "static/media/PargoDeliversParcels.svg": "/pargo-assessment-/static/media/PargoDeliversParcels.6759cf870736cef5e55998cfff3a1024.svg",
+    "static/media/TrackingPin.svg": "/pargo-assessment-/static/media/TrackingPin.3d7e8387aa35730ce82c2b36205af341.svg",
+    "static/media/CustomerNotified.svg": "/pargo-assessment-/static/media/CustomerNotified.ba0ef96689c5c3130c5d3c0348f381c1.svg",
+    "static/media/InYourOwnTime.svg": "/pargo-assessment-/static/media/InYourOwnTime.dc0dfb0af0f7ea3b8da3745cc875081c.svg",
+    "index.html": "/pargo-assessment-/index.html",
+    "main.4114741c.css.map": "/pargo-assessment-/static/css/main.4114741c.css.map",
+    "main.d5fbd3dc.js.map": "/pargo-assessment-/static/js/main.d5fbd3dc.js.map",
+    "498.6868fffb.chunk.js.map": "/pargo-assessment-/static/js/498.6868fffb.chunk.js.map",
+    "703.efa116c3.chunk.js.map": "/pargo-assessment-/static/js/703.efa116c3.chunk.js.map",
+    "182.648c260a.chunk.js.map": "/pargo-assessment-/static/js/182.648c260a.chunk.js.map",
+    "787.a2eeb70f.chunk.js.map": "/pargo-assessment-/static/js/787.a2eeb70f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4114741c.css",
+    "static/js/main.d5fbd3dc.js"
+  ]
+}
