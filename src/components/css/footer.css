@@ -1,0 +1,152 @@
+footer{
+    padding-top: 90px;
+    background-color: #000;
+}
+
+
+footer .footer-content .logo img{
+    width: 86px;
+}
+
+
+footer .footer-content p{
+    color: #969696;
+    margin-bottom: 25px;
+    font-size: 16px;
+    margin-top: 60px;
+}
+
+
+footer .footer-content .socials{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+footer .footer-content .socials a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 35px;
+    height: 35px;
+    background-color: #fff200;
+    justify-content: center;
+    color: #000;
+    border-radius: 50%;
+    font-size: 18px;
+}
+
+footer .footer-content h1{
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 0;
+    opacity: .75;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 47px;
+}
+
+
+footer .footer-content .blog{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    border-bottom: 2px dotted;
+}
+
+footer .footer-content .blog a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+footer .footer-content .blog img{
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+
+
+
+footer .footer-content .blog div h4{
+    font-size: 14px;
+    color: #838383;
+    display: block;
+    margin-bottom: 3px;
+}
+
+
+footer .footer-content .blog div h5{
+    font-size: 14px;
+    font-weight: 500;
+    color: #aeaeae;
+    margin-bottom: 0;
+    padding-right: 50px;
+    line-height: 1.4;
+}
+
+footer .footer-content ul{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 17px;
+    color: #000;
+}
+
+
+
+footer .footer-content ul li a{
+    color: #969696;
+}
+
+footer .copy-right{
+    margin-top: 54px;
+    background-color: #131313;
+}
+
+
+footer .copy-right .copy-content h3{
+    margin: 0;
+    color: #fff;
+    color: #777676;
+    margin-bottom: 0;
+    font-size: 16px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 11px;
+}
+
+
+footer .copy-right .copy-content h3 span{
+    color: #fff200;
+}
+
+@media(max-width:950px){
+    footer .footer-content{
+            margin-bottom: 42px;
+        }
+
+        footer .copy-right .copy-content h3 {
+            margin: 0;
+            color: #fff;
+            color: #777676;
+            margin-bottom: 0;
+            font-size: 12px;
+            height: 60px;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 11px;
+        }
+    
+}

@@ -1,0 +1,337 @@
+
+
+.track-package .track-package-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.track-package .track-package-content h3{
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 0;
+    color: #6d6d6d;
+}
+
+.track-package .track-package-content h3 span{
+    font-weight: 600;
+    font-style: italic;
+    color: #000000;
+}
+
+.track-package .track-package-content .track-inputs{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.track-package .track-package-content .track-inputs input{
+    width: 500px;
+    height: 57px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    padding-left: 12px;
+    background-color: #eee;
+    border: 1px solid #cecece;
+    font-size: 15px;
+    color: #000;
+}
+
+
+
+.track-package .track-package-content .track-inputs button{
+    height: 57px;
+    width: 138px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    background-color: #fff200;
+    font-weight: 700;
+}
+
+.track-package .track-package-content>h5{
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 0;
+    color: #6d6d6d;
+}
+
+.track-package .package-information{
+    padding: 20px;
+    background-color: #eee;
+    border-radius: 50px;
+    border: 1px solid #d5d5d5;
+    margin-top: 25px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.track-package .package-information .btns{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 18px;
+}
+
+
+.track-package .package-information .btns button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.track-package .package-information .btns button:nth-child(1){
+    color: red;
+}
+
+.track-package .package-information .btns button:nth-child(2){
+    color: green;
+}
+
+
+
+.track-package .package-information>h1{
+    text-align: center;
+    font-size: 22px;
+    color: #000;
+    line-height: 1.5;
+    font-size: 17px;
+    font-weight: 700;
+    color: #514959;
+    margin-bottom: 0;
+}
+
+.track-package .package-information>h1 span{
+    line-height: 1.5;
+    font-weight: 700;
+    color: #514959;
+    margin-bottom: 0;
+}
+
+.track-package .package-information .ship-rec-info{
+    margin-top: 25px;
+    margin-bottom: 29px;
+    padding: 20px;
+    border-radius: 23px;
+    background-color: #fff;
+}
+
+
+.track-package .package-information .ship-rec-info h2{
+    line-height: 1.5;
+    font-size: 20px;
+    font-weight: 700;
+    color: #514959;
+    margin-bottom: 0;
+}
+
+.track-package .package-information .ship-rec-info ul {
+    margin-top: 25px !important;
+}
+
+.track-package .package-information .ship-rec-info ul li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 11px;
+    flex-wrap: wrap;
+}
+
+.track-package .package-information .ship-rec-info ul li span{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.track-package .package-information .row>h3{
+    text-align: center;
+    font-size: 22px;
+    color: #000;
+    line-height: 1.5;
+    font-size: 17px;
+    font-weight: 700;
+    color: #514959;
+    margin-bottom: 0;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #0000001a;
+}
+
+.track-package .package-information .row>h3 span{
+    color: #000;
+}
+.track-package .package-information .row>h4{
+    font-size: 22px;
+    color: #000;
+    line-height: 1.5;
+    font-size: 17px;
+    font-weight: 700;
+    color: #514959;
+    margin-bottom: 0;
+    margin-top: 21px;
+    margin-bottom: 24px;
+}
+
+
+.track-package .package-information .shipment-info{
+    margin-top: 25px;
+    margin-bottom: 29px;
+    padding: 20px;
+    border-radius: 23px;
+    background-color: #fff;
+    min-height: 225px;
+
+}
+
+.track-package .package-information .shipment-info ul{
+    margin-top: 25px !important;
+}
+
+.track-package .package-information .shipment-info ul li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 11px;
+}
+
+.track-package .package-information .shipment-info ul li span{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+
+.track-package .package-information .comments p{
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 0;
+    color: #000000;
+}
+
+.track-package .track-trace-more-info{
+    width: 100%;
+    background-color: #eee;
+    padding: 25px;
+    border-radius: 19px;
+    margin-bottom: 40px;
+    margin-top: 43px;
+}
+
+.track-package .track-trace-more-info .track-trace-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 13px;
+}
+
+.track-package .track-trace-more-info .track-trace-content div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.track-package .track-trace-more-info .track-trace-content div img{
+    width: 80px;
+}
+
+.track-package .track-trace-more-info .track-trace-content div h1{
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #514959;
+    line-height: 1;
+    margin-bottom: 0;
+}
+.track-package .track-trace-more-info .track-trace-content div h5{
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 0;
+    color: #6d6d6d;
+    width: 50%;
+}
+
+.track-package .container-fluid>h4{
+    line-height: 1.5;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.track-package .container-fluid>h4 span{
+    color: #514959;
+}
+
+@media(max-width:950px){
+    .track-package .track-package-content .track-inputs input {
+        width: 80%;
+        height: 57px;
+        border-radius: 50px;
+        border: none;
+        outline: none;
+        padding-left: 12px;
+        background-color: #eee;
+        border: 1px solid #cecece;
+        font-size: 15px;
+        color: #000;
+    }
+
+    .track-package .track-package-content .track-inputs {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 10px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .track-package .track-trace-more-info .track-trace-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 13px;
+    }
+
+    .track-package .track-trace-more-info .track-trace-content div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .track-package .track-trace-more-info .track-trace-content div h5 {
+        font-size: 15px;
+        line-height: 1.5;
+        margin-bottom: 0;
+        color: #6d6d6d;
+        width: 100%;
+        text-align: center;
+    }
+}

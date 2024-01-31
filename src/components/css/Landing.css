@@ -1,0 +1,179 @@
+.landing{
+    position: relative;
+    height: 73vh;
+    margin-bottom: 290px;
+}
+
+.landing .overlay{
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0000008f;
+    z-index: 2;
+}
+
+.landing .dots{
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    opacity: 0.2;
+}
+
+.landing .green-env{
+    inset: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.landing .text{
+    position: relative;
+    z-index: 4;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.landing .text .navigator{
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    height: 60px;
+    background-color: #fff200;
+    border-radius: 50px;
+}
+
+
+.landing .text .navigator .circle{
+    width: 15px;
+    height: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+    border-radius: 50%;
+}
+
+
+.landing .text .navigator a{
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+.landing .text .navigator .line{
+    width: 2px;
+    height: 20px;
+    background-color: #0000006b;
+}
+
+
+.landing .text h1{
+    font-size: 70px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 0;
+    position: relative;
+    display: inline-block;
+    margin-top: 35px;
+}
+
+.landing .text h2{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #fff200;
+    margin-bottom: 0;
+    position: relative;
+    display: inline-block;
+}
+
+.landing .track-way{
+    width: 70%;
+    height: 205px;
+    margin-top: -60px;
+    background-color: #000;
+    position: relative;
+    z-index: 3;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 4px dotted #fff200;
+    border-radius: 125px;
+}
+
+.landing .track-way img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+@media(max-width:950px){
+    .landing .text h1 {
+        font-size: 30px;
+        text-transform: uppercase;
+        font-weight: 900;
+        color: #fff;
+        margin-bottom: 0;
+        position: relative;
+        display: inline-block;
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .landing .text h2 {
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 900;
+        color: #fff200;
+        margin-bottom: 0;
+        position: relative;
+        display: inline-block;
+    }
+
+    .landing {
+        position: relative;
+        height: inherit;
+        min-height: 450px;
+        margin-bottom: 90px;
+    }
+
+    .landing .text {
+        position: relative;
+        z-index: 4;
+        width: 100%;
+        height: 345px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .landing .track-way {
+        width: 100%;
+        height: 135px;
+        margin-bottom: -60px;
+        background-color: #000;
+        position: relative;
+        z-index: 3;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 4px dotted #fff200;
+        border-radius: 125px;
+        display:none;
+    }
+}
