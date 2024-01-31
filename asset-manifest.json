@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pargo-assessment-/static/css/main.4114741c.css",
+    "main.css": "/pargo-assessment-/static/css/main.dc121f2b.css",
     "main.js": "/pargo-assessment-/static/js/main.d5fbd3dc.js",
     "static/js/498.6868fffb.chunk.js": "/pargo-assessment-/static/js/498.6868fffb.chunk.js",
     "static/js/703.efa116c3.chunk.js": "/pargo-assessment-/static/js/703.efa116c3.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/CustomerNotified.svg": "/pargo-assessment-/static/media/CustomerNotified.ba0ef96689c5c3130c5d3c0348f381c1.svg",
     "static/media/InYourOwnTime.svg": "/pargo-assessment-/static/media/InYourOwnTime.dc0dfb0af0f7ea3b8da3745cc875081c.svg",
     "index.html": "/pargo-assessment-/index.html",
-    "main.4114741c.css.map": "/pargo-assessment-/static/css/main.4114741c.css.map",
+    "main.dc121f2b.css.map": "/pargo-assessment-/static/css/main.dc121f2b.css.map",
     "main.d5fbd3dc.js.map": "/pargo-assessment-/static/js/main.d5fbd3dc.js.map",
     "498.6868fffb.chunk.js.map": "/pargo-assessment-/static/js/498.6868fffb.chunk.js.map",
     "703.efa116c3.chunk.js.map": "/pargo-assessment-/static/js/703.efa116c3.chunk.js.map",
@@ -30,7 +30,7 @@
     "787.a2eeb70f.chunk.js.map": "/pargo-assessment-/static/js/787.a2eeb70f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4114741c.css",
+    "static/css/main.dc121f2b.css",
     "static/js/main.d5fbd3dc.js"
   ]
 }
